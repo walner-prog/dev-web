@@ -42,6 +42,8 @@ const Introduction = () => {
             PostgreSQL, MySQL y MongoDB.
           </p>
 
+          
+
           <div className='flex items-center justify-center gap-3 md:justify-start md:gap-10'>
             <a
               href='/projects'
